@@ -1,0 +1,11 @@
+export const SONATA = 'Sonata'
+export const HYUNDAI = 'Hyundai'
+export const GENESIS = 'Genesis'
+export const ARROW = 'arrow'
+export const CIRCLE = 'circle'
+export const SQUARE = 'square'
+export const DEVELOPMENT = 'development'
+export const COLUMN_LIVE = 'live'
+export const COLUMN_LATEST_VERSION = 'latestVersion'
+export const HYUNDAI_THREE_D_LENGTH = 36
+export const GENESIS_THREE_D_LENGTH = 72
